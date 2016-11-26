@@ -1,5 +1,5 @@
-#include "glut_thread.h"
-#include "mainwindow.h"
+#include "inc/glut_thread.h"
+#include "inc/mainwindow.h"
 
 int main(int argc, char *argv[]){
 	glutInit(&argc, argv);

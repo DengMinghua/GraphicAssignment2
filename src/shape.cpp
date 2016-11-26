@@ -1,4 +1,4 @@
-#include "shape.h"
+#include "inc/shape.h"
 
 #include <iostream>
 using namespace std;

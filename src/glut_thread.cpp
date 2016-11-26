@@ -1,4 +1,4 @@
-#include "glut_thread.h"
+#include "inc/glut_thread.h"
 
 Model md = loadObj("model/wolverine_obj.obj");
 GLuint TEX_ID;
